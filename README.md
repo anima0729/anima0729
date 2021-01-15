@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anima0729)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **anima0729/anima0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
