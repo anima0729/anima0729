@@ -1,4 +1,4 @@
-:smile: I'm interested in:
+:smile: I'm interested in
  - Machine Learning & Deep Learing (TensorFlow & Pytorch)
  - BackEnd (Server)
 
