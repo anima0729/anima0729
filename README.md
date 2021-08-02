@@ -2,7 +2,8 @@
 
 :smile: I'm interested in
  - Machine Learning & Deep Learing (TensorFlow & Pytorch)
- - BackEnd (Server)
+ - Cloud Computing (For DataScience)
+ - Real Time System
 
 :black_nib: Now I'm learning
  - To Use Language : Python, Java, C++
