@@ -20,7 +20,7 @@
  - `Dacon` [구내식당 식수 인원 예측 AI 경진대회](https://dacon.io/competitions/official/235743/overview/description) 8/481 (Top 1.6%)
 
 :page_facing_up: Paper
-- `한국정보기술학회` SORT와 DeepSORT의 혼합을 이용한 실시간 다중객체 추적 (Accept)
+- `KCI` SORT와 DeepSORT의 혼합을 이용한 실시간 다중객체 추적, 한국정보기술학회 (Accept)
 
 <br>
 
