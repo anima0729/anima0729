@@ -11,7 +11,6 @@
 
 :computer: Project
  - `Android Studio` [Android Aplication](https://github.com/anima0729/DoITMakeApplication) ing...
- - `Android Studio` [OpenSW Develop](https://github.com/Jarvas-2021/open-sw-dev) ing...
 
 :triangular_flag_on_post: Competition
  - **`INU` [인천대학교 SmartLivingLab Hakathon](https://github.com/anima0729/INU-SmartLivingLabHakathon) 1st**
