@@ -10,7 +10,7 @@
  - To Use Library : TensorFlow, Pytorch
 
 :computer: Project
- - `Android Studio` [Android Aplication](https://github.com/anima0729/DoITMakeApplication) ing...
+ - `Android Studio` [Android Application](https://github.com/anima0729/DoITMakeApplication) ing...
 
 :triangular_flag_on_post: Competition
  - **`INU` [인천대학교 SmartLivingLab Hakathon](https://github.com/anima0729/INU-SmartLivingLabHakathon) 1st**
