@@ -8,8 +8,8 @@
  - Real Time System
 
 :black_nib: Now I'm learning
- - To Use Language : Python, Java, C++
- - To Use Library : TensorFlow, Pytorch
+ - To Use Language : Python, Java, C++, ...
+ - To Use Library : TensorFlow, Pytorch, ...
 
 :computer: Project
  - `Android Studio` [Android Application](https://github.com/anima0729/DoITMakeApplication) ing...
