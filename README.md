@@ -24,7 +24,7 @@
  - `Dacon` [2021 교통 수(手)신호 동작 인식 AI 경진대회](https://www.dacon.io/competitions/official/235806/leaderboard) 6/228 (Top 2.6%)
 
 :page_facing_up: Paper
-- `KCI` SORT와 DeepSORT의 혼합을 이용한 실시간 다중객체 추적, 한국정보기술학회 (Accept)
+- `KCI` [SORT와 DeepSORT의 혼합을 이용한 실시간 다중객체 추적](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002767099), 한국정보기술학회 (Accept)
 
 <br>
 
