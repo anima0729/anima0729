@@ -19,6 +19,7 @@
  - **`INU` [인천대학교 자율주행자동차 소프트웨어 경진대회 INU-ADSC](http://www.inu.ac.kr/user/indexSub.do?codyMenuSeq=102091&siteId=isis&dum=dum&boardId=48017&page=1&command=view&boardSeq=639651) 은상**
  - **`Kaggle` [Body Morphometry: Kidney and Tumor](https://www.kaggle.com/c/body-morphometry-kidney-and-tumor) 3rd**
  - **`SAM` [서울대병원 SAM 아토피중증도 경진대회](https://sam.healthbigdata.org/) 1st**
+ - **`SAM` [서울대병원 SAM 욕창 경진대회](https://sam.healthbigdata.org/) 3st**
  - `Dacon`  [제 2회 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235697/overview/description) 21/216 (Top 9.7%)
  - `Dacon` [구내식당 식수 인원 예측 AI 경진대회](https://dacon.io/competitions/official/235743/overview/description) 8/481 (Top 1.6%)
  - `Dacon` [Samsung AI Challenge for Scientific Discovery](https://www.dacon.io/competitions/official/235789/overview/description) 24/222 (Top 10.8%)
