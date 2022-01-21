@@ -4,7 +4,7 @@
 
 :smile: I'm interested in
  - Machine Learning & Deep Learing (TensorFlow & Pytorch)
- - Cloud Computing (For DataScience)
+ - Computer Vision & Anomaly Detection
  - Real Time System
 
 :black_nib: Now I'm learning
