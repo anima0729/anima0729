@@ -4,7 +4,7 @@
 
 :smile: I'm interested in
  - Machine Learning & Deep Learing (TensorFlow & Pytorch)
- - Computer Vision & Anomaly Detection
+ - Multi Object Tracking & Anomaly Detection
  - Real Time System
 
 :black_nib: Now I'm learning
