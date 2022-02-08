@@ -27,6 +27,7 @@
  - `Dacon` [Samsung AI Challenge for Scientific Discovery](https://www.dacon.io/competitions/official/235789/overview/description) 24/222 (Top 10.8%)
  - `Dacon` [2021 Ego-Vision 손동작 인식 AI 경진대회](https://www.dacon.io/competitions/official/235805/overview/description) 18/290 (Top 6.2%)
  - `Dacon` [2021 교통 수(手)신호 동작 인식 AI 경진대회](https://www.dacon.io/competitions/official/235806/leaderboard) 6/228 (Top 2.6%)
+ - `Dacon` [LG 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description) 19/344 (Top 5.5%)
 
 :page_facing_up: Paper
 - `KCI` [SORT와 DeepSORT의 혼합을 이용한 실시간 다중객체 추적](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002767099), 한국정보기술학회 (Accept)
