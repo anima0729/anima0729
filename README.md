@@ -31,7 +31,7 @@
 
 :page_facing_up: Paper
 - `KCI` [SORT와 DeepSORT의 혼합을 이용한 실시간 다중객체 추적](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002767099), 한국정보기술학회
-- `SCI(E)` Partitioned Real-Time Scheduling for Preventing Information Leakage, IEEE Access
+- `SCI(E)` Partitioned Real-Time Scheduling for Preventing Information Leakage, IEEE Access (Accept)
 
 <br>
 
