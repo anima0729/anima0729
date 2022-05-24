@@ -16,7 +16,7 @@
  - `Android Studio` [Mappy](https://github.com/Jarvas-2021/open-sw-dev) Fin.
  - `Android Studio` [Android Application](https://github.com/anima0729/DoITMakeApplication) ing...
 
-:triangular_flag_on_post: Competition
+:triangular_flag_on_post: Competition<br>
 **Bold**는 수상
  - **`INU` [인천대학교 SmartLivingLab Hakathon](https://github.com/anima0729/INU-SmartLivingLabHakathon) 1st**
  - **`INU` [인천대학교 자율주행자동차 소프트웨어 경진대회 INU-ADSC](http://www.inu.ac.kr/user/indexSub.do?codyMenuSeq=102091&siteId=isis&dum=dum&boardId=48017&page=1&command=view&boardSeq=639651) 은상**
@@ -31,7 +31,7 @@
  - `Dacon` [2021 교통 수(手)신호 동작 인식 AI 경진대회](https://www.dacon.io/competitions/official/235806/leaderboard) 6/228 (Top 2.6%)
  - `Dacon` [LG 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description) 19/344 (Top 5.5%)
 
-:page_facing_up: Paper
+:page_facing_up: Paper<br>
 **Bold**는 1저자
 - `KCI` [SORT와 DeepSORT의 혼합을 이용한 실시간 다중객체 추적](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002767099), 한국정보기술학회
 - **`SCIE` [Partitioned Real-Time Scheduling for Preventing Information Leakage](https://ieeexplore.ieee.org/document/9720955), IEEE Access**
