@@ -33,7 +33,7 @@
 
 :page_facing_up: Publication<br>
 **Bold**는 1저자
-- `KCI` [SORT와 DeepSORT의 혼합을 이용한 실시간 다중객체 추적](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002767099), 한국정보기술학회(KIIT)
+- `KCI` [Real-Time Multi-Object Tracking using Mixture of SORT and DeepSORT](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002767099), 한국정보기술학회(KIIT)
 - **`SCIE` [Partitioned Real-Time Scheduling for Preventing Information Leakage](https://ieeexplore.ieee.org/document/9720955), IEEE Access**
 - **`KCC` Multi-object tracking trend in real-time embedded environment, 한국정보과학회(KIISE)**
 
