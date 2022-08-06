@@ -37,6 +37,7 @@
 - `KCI` [Real-Time Multi-Object Tracking using Mixture of SORT and DeepSORT](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002767099), 한국정보기술학회(KIIT)
 - **`SCIE` [Partitioned Real-Time Scheduling for Preventing Information Leakage](https://ieeexplore.ieee.org/document/9720955), IEEE Access**
 - **`KCC` Multi-object tracking trend in real-time embedded environment, 한국정보과학회(KIISE)**
+- **`RTSS` RT-MOT: Confidence-Aware Real-Time Scheduling Framework for Multi-Object Tracking Tasks, RTSS 2022**
 
 <br>
 
