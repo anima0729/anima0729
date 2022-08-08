@@ -15,7 +15,6 @@
 :computer: Project
  - `Android Studio` [Petmily](https://github.com/sunni3722/PetApplication) Fin.
  - `Android Studio` [Mappy](https://github.com/Jarvas-2021/open-sw-dev) Fin.
- - `Android Studio` [Android Application](https://github.com/anima0729/DoITMakeApplication) ing...
 
 :triangular_flag_on_post: Competition<br>
 **Bold**는 수상
