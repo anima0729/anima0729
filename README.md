@@ -22,12 +22,8 @@
  - **`SAM` [서울대병원 SAM 아토피중증도 경진대회](https://sam.healthbigdata.org/) 1st**
  - **`SAM` [서울대병원 SAM 욕창 경진대회](https://sam.healthbigdata.org/) 3rd**
  - **`DiSolution` [부산광역시 인공지능 학습용 데이터 해커톤 대회](https://github.com/anima0729/SlowFast) 1st**
- - `Dacon`  [제 2회 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235697/overview/description) 21/216 (Top 9.7%)
  - `Dacon` [구내식당 식수 인원 예측 AI 경진대회](https://dacon.io/competitions/official/235743/overview/description) 8/481 (Top 1.6%)
- - `Dacon` [Samsung AI Challenge for Scientific Discovery](https://www.dacon.io/competitions/official/235789/overview/description) 24/222 (Top 10.8%)
- - `Dacon` [2021 Ego-Vision 손동작 인식 AI 경진대회](https://www.dacon.io/competitions/official/235805/overview/description) 18/290 (Top 6.2%)
  - `Dacon` [2021 교통 수(手)신호 동작 인식 AI 경진대회](https://www.dacon.io/competitions/official/235806/leaderboard) 6/228 (Top 2.6%)
- - `Dacon` [LG 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description) 19/344 (Top 5.5%)
 
 :page_facing_up: Publication<br>
 **Bold**는 1저자
