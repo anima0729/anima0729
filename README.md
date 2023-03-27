@@ -16,7 +16,7 @@
 
 :triangular_flag_on_post: Competition<br>
 **Bold**는 수상
- - **`INU` [인천대학교 SmartLivingLab Hakathon](https://github.com/anima0729/INU-SmartLivingLabHakathon) 1st**
+ - **`INU` [인천대학교 SmartLivingLab Hackathon](https://github.com/anima0729/INU-SmartLivingLabHakathon) 1st**
  - **`INU` [인천대학교 자율주행자동차 소프트웨어 경진대회 INU-ADSC](http://www.inu.ac.kr/user/indexSub.do?codyMenuSeq=102091&siteId=isis&dum=dum&boardId=48017&page=1&command=view&boardSeq=639651) 은상**
  - **`Kaggle` [Body Morphometry: Kidney and Tumor](https://www.kaggle.com/c/body-morphometry-kidney-and-tumor) 3rd**
  - **`SAM` [서울대병원 SAM 아토피중증도 경진대회](https://sam.healthbigdata.org/) 1st**
