@@ -15,7 +15,6 @@
  - `Android Studio` [Mappy](https://github.com/Jarvas-2021/open-sw-dev) Fin.
 
 :triangular_flag_on_post: Competition<br>
-**Bold**는 수상
  - **`INU` [인천대학교 SmartLivingLab Hackathon](https://github.com/anima0729/INU-SmartLivingLabHakathon) 1st**
  - **`INU` [인천대학교 자율주행자동차 소프트웨어 경진대회 INU-ADSC](http://www.inu.ac.kr/user/indexSub.do?codyMenuSeq=102091&siteId=isis&dum=dum&boardId=48017&page=1&command=view&boardSeq=639651) 은상**
  - **`Kaggle` [Body Morphometry: Kidney and Tumor](https://www.kaggle.com/c/body-morphometry-kidney-and-tumor) 3rd**
@@ -26,7 +25,6 @@
  - `Dacon` [2021 교통 수(手)신호 동작 인식 AI 경진대회](https://www.dacon.io/competitions/official/235806/leaderboard) 6/228 (Top 2.6%)
 
 :page_facing_up: Publication<br>
-**Bold**는 1저자
 - `KCI` [Real-Time Multi-Object Tracking using Mixture of SORT and DeepSORT](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002767099), 한국정보기술학회(KIIT)
 - **`SCIE` [Partitioned Real-Time Scheduling for Preventing Information Leakage](https://ieeexplore.ieee.org/document/9720955), IEEE Access**
 - **`KCC` [Multi-object tracking trend in real-time embedded environment](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113128), 한국정보과학회(KIISE)**
