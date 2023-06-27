@@ -4,6 +4,7 @@
  - Machine Learning & Deep Learing (TensorFlow & Pytorch)
  - Multi Object Tracking & Anomaly Detection
  - Real Time System
+ - Spiking Neural Network
 
 :black_nib: Now I'm learning
  - To Use Language : Python, Java, C++, ...
