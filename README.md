@@ -30,4 +30,4 @@
 - **`SCIE` [Partitioned Real-Time Scheduling for Preventing Information Leakage](https://ieeexplore.ieee.org/document/9720955), IEEE Access**
 - **`KCC` [Multi-object tracking trend in real-time embedded environment](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113128), 한국정보과학회(KIISE)**
 - **`RTSS` [RT-MOT: Confidence-Aware Real-Time Scheduling Framework for Multi-Object Tracking Tasks](https://ieeexplore.ieee.org/document/9984748), IEEE RTSS 2022**
-- **`BigData` [A 2-Stage Model for Vehicle Class and Orientation Detection with Photo-Realistic Image Generation](https://ieeexplore.ieee.org/document/10020472), IEEE BigData Cup 2022**
+- **`BigData` [A 2-Stage Model for Vehicle Class and Orientation Detection with Photo-Realistic Image Generation](https://ieeexplore.ieee.org/document/10020472), IEEE BigData Workshop 2022**
