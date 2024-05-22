@@ -31,5 +31,5 @@
 - **`KCC` [Multi-object tracking trend in real-time embedded environment](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113128), 한국정보과학회(KIISE)**
 - **`RTSS` [RT-MOT: Confidence-Aware Real-Time Scheduling Framework for Multi-Object Tracking Tasks](https://ieeexplore.ieee.org/document/9984748), IEEE RTSS 2022**
 - **`BigData` [A 2-Stage Model for Vehicle Class and Orientation Detection with Photo-Realistic Image Generation](https://ieeexplore.ieee.org/document/10020472), IEEE BigData Workshop 2022**
-- **`SAC` MOT-AS: Real-Time Scheduling Framework for Multi-Object Tracking Capturing Accuracy and Stability, ACM SAC 2024**
-- `SAC` 	Prior-Based Enhanced ASD-POCS for Artifact Suppression and Structural Preservation in Sparse-View CBCT, ACM SAC 2024
+- **`SAC` [MOT-AS: Real-Time Scheduling Framework for Multi-Object Tracking Capturing Accuracy and Stability](https://dl.acm.org/doi/10.1145/3605098.3635996), ACM SAC 2024**
+- `SAC` 	[Prior-Based Enhanced ASD-POCS for Artifact Suppression and Structural Preservation in Sparse-View CBCT](https://dl.acm.org/doi/10.1145/3605098.3635910), ACM SAC 2024
