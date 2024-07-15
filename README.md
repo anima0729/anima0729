@@ -33,5 +33,5 @@
 - **`BigData` [A 2-Stage Model for Vehicle Class and Orientation Detection with Photo-Realistic Image Generation](https://ieeexplore.ieee.org/document/10020472), IEEE BigData Workshop 2022**
 - **`SAC` [MOT-AS: Real-Time Scheduling Framework for Multi-Object Tracking Capturing Accuracy and Stability](https://dl.acm.org/doi/10.1145/3605098.3635996), ACM SAC 2024**
 - `SAC` 	[Prior-Based Enhanced ASD-POCS for Artifact Suppression and Structural Preservation in Sparse-View CBCT](https://dl.acm.org/doi/10.1145/3605098.3635910), ACM SAC 2024
-- **`EMSOFT' Batch-MOT: Batch-Enabled Real-Time Scheduling for Multi-Object
+- **`EMSOFT` Batch-MOT: Batch-Enabled Real-Time Scheduling for Multi-Object
 Tracking Tasks,EMSOFT 2024**
