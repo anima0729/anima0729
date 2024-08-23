@@ -34,4 +34,3 @@
 - **`SAC` [MOT-AS: Real-Time Scheduling Framework for Multi-Object Tracking Capturing Accuracy and Stability](https://dl.acm.org/doi/10.1145/3605098.3635996), ACM SAC 2024**
 - `SAC` 	[Prior-Based Enhanced ASD-POCS for Artifact Suppression and Structural Preservation in Sparse-View CBCT](https://dl.acm.org/doi/10.1145/3605098.3635910), ACM SAC 2024
 - **`EMSOFT` `SCIE` [Batch-MOT: Batch-Enabled Real-Time Scheduling for Multi-Object Tracking Tasks](https://ieeexplore.ieee.org/document/10639827), ACM EMSOFT 2024 and IEEE TCAD**
-- **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network](https://www.arxiv.org/abs/2408.12293), Arxiv**
