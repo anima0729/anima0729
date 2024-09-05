@@ -33,4 +33,9 @@
 - **`BigData` [A 2-Stage Model for Vehicle Class and Orientation Detection with Photo-Realistic Image Generation](https://ieeexplore.ieee.org/document/10020472), IEEE BigData Workshop 2022**
 - **`SAC` [MOT-AS: Real-Time Scheduling Framework for Multi-Object Tracking Capturing Accuracy and Stability](https://dl.acm.org/doi/10.1145/3605098.3635996), ACM SAC 2024**
 - `SAC` 	[Prior-Based Enhanced ASD-POCS for Artifact Suppression and Structural Preservation in Sparse-View CBCT](https://dl.acm.org/doi/10.1145/3605098.3635910), ACM SAC 2024
-- **`EMSOFT` `SCIE` [Batch-MOT: Batch-Enabled Real-Time Scheduling for Multi-Object Tracking Tasks](https://ieeexplore.ieee.org/document/10639827), ACM EMSOFT 2024 and IEEE TCAD**
+- **`EMSOFT` [Batch-MOT: Batch-Enabled Real-Time Scheduling for Multi-Object Tracking Tasks](https://ieeexplore.ieee.org/document/10639827), ACM EMSOFT 2024**
+- **`SCIE` [Batch-MOT: Batch-Enabled Real-Time Scheduling for Multi-Object Tracking Tasks](https://ieeexplore.ieee.org/document/10639827), IEEE TCAD**
+- `ICPR` Specular Region Detection and Covariant Feature Extraction in Endoscopy Imaging, ICPR 2024
+- `ICPR` Deep Prior Based Limited-Angle Tomography, ICPR 2024
+- `ICPR` Advanced Endoscopy Imaging with Automatic Feedback, ICPR 2024
+- **`IWMCA` MOT-AS: Real-Time Scheduling Framework for Multi-Object Tracking Capturing Accuracy and Stability, IWMCA 2024**
