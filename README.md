@@ -39,4 +39,4 @@
 - `ICPR` Deep Prior Based Limited-Angle Tomography, ICPR 2024
 - `ICPR` Advanced Endoscopy Imaging with Automatic Feedback, ICPR 2024
 - **`IWMCA` MOT-AS: Real-Time Scheduling Framework for Multi-Object Tracking Capturing Accuracy and Stability, IWMCA 2024**
-- **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network, Arxiv](https://arxiv.org/abs/2408.12293)**
+- **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network](https://arxiv.org/abs/2408.12293), Arxiv**
