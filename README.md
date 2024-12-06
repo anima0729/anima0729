@@ -35,8 +35,8 @@
 - `SAC` 	[Prior-Based Enhanced ASD-POCS for Artifact Suppression and Structural Preservation in Sparse-View CBCT](https://dl.acm.org/doi/10.1145/3605098.3635910), ACM SAC 2024
 - **`EMSOFT` [Batch-MOT: Batch-Enabled Real-Time Scheduling for Multi-Object Tracking Tasks](https://ieeexplore.ieee.org/document/10639827), ACM EMSOFT 2024**
 - **`SCIE` [Batch-MOT: Batch-Enabled Real-Time Scheduling for Multi-Object Tracking Tasks](https://ieeexplore.ieee.org/document/10639827), IEEE TCAD**
-- `ICPR` Specular Region Detection and Covariant Feature Extraction in Endoscopy Imaging, ICPR 2024
-- `ICPR` Deep Prior Based Limited-Angle Tomography, ICPR 2024
-- `ICPR` Advanced Endoscopy Imaging with Automatic Feedback, ICPR 2024
+- `ICPR` [Specular Region Detection and Covariant Feature Extraction](https://link.springer.com/chapter/10.1007/978-3-031-78198-8_12), ICPR 2024
+- `ICPR` [Deep Prior Based Limited-Angle Tomography](https://link.springer.com/chapter/10.1007/978-3-031-78195-7_6), ICPR 2024
+- `ICPR` [Advanced Endoscopy Imaging with Automatic Feedback](https://link.springer.com/chapter/10.1007/978-3-031-78195-7_5), ICPR 2024
 - **`IWMCA` MOT-AS: Real-Time Scheduling Framework for Multi-Object Tracking Capturing Accuracy and Stability, IWMCA 2024**
 - **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network](https://arxiv.org/abs/2408.12293), Arxiv**
