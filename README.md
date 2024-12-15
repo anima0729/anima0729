@@ -40,3 +40,4 @@
 - `ICPR` [Advanced Endoscopy Imaging with Automatic Feedback](https://link.springer.com/chapter/10.1007/978-3-031-78195-7_5), ICPR 2024
 - **`IWMCA` MOT-AS: Real-Time Scheduling Framework for Multi-Object Tracking Capturing Accuracy and Stability, IWMCA 2024**
 - **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network](https://arxiv.org/abs/2408.12293), Arxiv**
+- **`Arxiv` [BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks](https://www.arxiv.org/abs/2408.12727), Arxiv**
