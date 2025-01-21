@@ -27,7 +27,7 @@
 
 :page_facing_up: Publication<br>
 - `KCI` [Real-Time Multi-Object Tracking using Mixture of SORT and DeepSORT](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002767099), 한국정보기술학회(KIIT)
-- **`SCIE` [Partitioned Real-Time Scheduling for Preventing Information Leakage](https://ieeexplore.ieee.org/document/9720955), IEEE Access**
+- **`SCI` [Partitioned Real-Time Scheduling for Preventing Information Leakage](https://ieeexplore.ieee.org/document/9720955), IEEE Access**
 - **`KCC` [Multi-object tracking trend in real-time embedded environment](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113128), 한국정보과학회(KIISE)**
 - **`RTSS` [RT-MOT: Confidence-Aware Real-Time Scheduling Framework for Multi-Object Tracking Tasks](https://ieeexplore.ieee.org/document/9984748), IEEE RTSS 2022**
 - **`BigData` [A 2-Stage Model for Vehicle Class and Orientation Detection with Photo-Realistic Image Generation](https://ieeexplore.ieee.org/document/10020472), IEEE BigData Workshop 2022**
@@ -41,3 +41,4 @@
 - **`IWMCA` MOT-AS: Real-Time Scheduling Framework for Multi-Object Tracking Capturing Accuracy and Stability, IWMCA 2024**
 - **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network](https://arxiv.org/abs/2408.12293), Arxiv**
 - **`Arxiv` [BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks](https://www.arxiv.org/abs/2408.12727), Arxiv**
+- **`SCI` Real-Time Scheduling for Multi-Object Tracking Tasks in Regions with Different Criticalities, Journal of Systems Architecture**
