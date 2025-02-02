@@ -42,3 +42,4 @@
 - **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network](https://arxiv.org/abs/2408.12293), Arxiv**
 - **`Arxiv` [BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks](https://www.arxiv.org/abs/2408.12727), Arxiv**
 - **`SCI` [Real-Time Scheduling for Multi-Object Tracking Tasks in Regions with Different Criticalities](https://www.sciencedirect.com/science/article/abs/pii/S1383762125000219), Journal of Systems Architecture**
+- **`Arxiv` [Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks](https://arxiv.org/abs/2501.18412), Arxiv**
