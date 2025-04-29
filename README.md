@@ -38,7 +38,7 @@
 - `ICPR` [Specular Region Detection and Covariant Feature Extraction](https://link.springer.com/chapter/10.1007/978-3-031-78198-8_12), ICPR 2024
 - `ICPR` [Deep Prior Based Limited-Angle Tomography](https://link.springer.com/chapter/10.1007/978-3-031-78195-7_6), ICPR 2024
 - `ICPR` [Advanced Endoscopy Imaging with Automatic Feedback](https://link.springer.com/chapter/10.1007/978-3-031-78195-7_5), ICPR 2024
-- **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network](https://arxiv.org/abs/2408.12293), Arxiv**
-- **`Arxiv` [BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks](https://www.arxiv.org/abs/2408.12727), Arxiv**
 - **`SCI` [Real-Time Scheduling for Multi-Object Tracking Tasks in Regions with Different Criticalities](https://www.sciencedirect.com/science/article/abs/pii/S1383762125000219), Journal of Systems Architecture**
+- **`IJCAI` [BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks](https://www.arxiv.org/abs/2408.12727), IJCAI**
 - **`Arxiv` [Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks](https://arxiv.org/abs/2501.18412), Arxiv**
+- **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network](https://arxiv.org/abs/2408.12293), Arxiv**
