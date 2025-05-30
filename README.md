@@ -42,3 +42,4 @@
 - **`IJCAI` [BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks](https://www.arxiv.org/abs/2408.12727), IJCAI 2025**
 - **`Arxiv` [Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks](https://arxiv.org/abs/2501.18412), Arxiv**
 - **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network](https://arxiv.org/abs/2408.12293), Arxiv**
+- **`Arxiv` [CF-DETR: Coarse-to-Fine Transformer for Real-Time Object Detection](https://arxiv.org/abs/2505.23317), Arxiv**
