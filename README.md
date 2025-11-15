@@ -1,7 +1,7 @@
 :wave: Hi, there.
 
 :smile: I'm interested in
- - Real Time DNN-based Vision Perception System
+ - DNN-based Real Time Vision Perception System
  - AI Security
  - Spiking Neural Network
 
@@ -22,7 +22,6 @@
  - **`SAM` [서울대병원 SAM 아토피중증도 경진대회](https://sam.healthbigdata.org/) 1st**
  - **`SAM` [서울대병원 SAM 욕창 경진대회](https://sam.healthbigdata.org/) 3rd**
  - **`DiSolution` [부산광역시 인공지능 학습용 데이터 해커톤 대회](https://github.com/anima0729/SlowFast) 1st**
- - `Dacon` [구내식당 식수 인원 예측 AI 경진대회](https://dacon.io/competitions/official/235743/overview/description) 8/481 (Top 1.6%)
 
 :page_facing_up: Publication<br>
 - `KCI` [Real-Time Multi-Object Tracking using Mixture of SORT and DeepSORT](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002767099), 한국정보기술학회(KIIT)
