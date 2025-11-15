@@ -1,9 +1,8 @@
 :wave: Hi, there.
 
 :smile: I'm interested in
- - Machine Learning & Deep Learing (TensorFlow & Pytorch)
- - Multi Object Tracking & Anomaly Detection
- - Real Time System
+ - Real Time System (for DNN-based vision perception system)
+ - AI Security
  - Spiking Neural Network
 
 :black_nib: Now I'm learning
