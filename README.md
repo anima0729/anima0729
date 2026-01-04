@@ -37,7 +37,7 @@
 - `ICPR` [Deep Prior Based Limited-Angle Tomography](https://link.springer.com/chapter/10.1007/978-3-031-78195-7_6), ICPR 2024
 - `ICPR` [Advanced Endoscopy Imaging with Automatic Feedback](https://link.springer.com/chapter/10.1007/978-3-031-78195-7_5), ICPR 2024
 - **`SCI` [Real-Time Scheduling for Multi-Object Tracking Tasks in Regions with Different Criticalities](https://www.sciencedirect.com/science/article/abs/pii/S1383762125000219), Journal of Systems Architecture**
-- **`IJCAI` [BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks](https://www.ijcai.org/proceedings/2025/206), [code](https://github.com/woozee-hub/BankTweak) IJCAI 2025**
+- **`IJCAI` [BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks](https://www.ijcai.org/proceedings/2025/206), [[code]](https://github.com/woozee-hub/BankTweak) IJCAI 2025**
 - **`RTSS` [CF-DETR: Coarse-to-Fine Transformer for Real-Time Object Detection](https://arxiv.org/abs/2505.23317), IEEE RTSS 2025**
 - **`AAAI` [Timestep-Compressed Attack on Spiking Neural Networks through Timestep-Level Backpropagation](http://arxiv.org/abs/2508.13812), AAAI 2026**
 - **`Arxiv` [Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks](https://arxiv.org/abs/2501.18412), Arxiv**
