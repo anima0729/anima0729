@@ -43,4 +43,4 @@
 - **`Arxiv` [Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks](https://arxiv.org/abs/2501.18412), Arxiv**
 - **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network](https://arxiv.org/abs/2408.12293), Arxiv**
 - **`Arxiv` [STAS: Spatio-Temporal Adaptive Computation Time for Spiking Transformers](http://arxiv.org/abs/2508.14138), Arxiv**
-
+- **`Arxiv` [Zero2Text: Zero-Training Cross-Domain Inversion Attacks on Textual Embeddings](https://arxiv.org/abs/2602.01757), Arxiv**
