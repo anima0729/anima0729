@@ -40,7 +40,9 @@
 - **`IJCAI` [BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks](https://www.ijcai.org/proceedings/2025/206), [[code]](https://github.com/woozee-hub/BankTweak) IJCAI 2025**
 - **`RTSS` [CF-DETR: Coarse-to-Fine Transformer for Real-Time Object Detection](https://arxiv.org/abs/2505.23317), IEEE RTSS 2025**
 - **`AAAI` [Timestep-Compressed Attack on Spiking Neural Networks through Timestep-Level Backpropagation](http://arxiv.org/abs/2508.13812), AAAI 2026**
-- **`Arxiv` [Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks](https://arxiv.org/abs/2501.18412), Arxiv**
+- **`DAC` [Adaptive Spiking Neural Networks for Real-Time Multi-Object Detection Tasks](https://arxiv.org/abs/2501.18412), DAC 2026**
 - **`Arxiv` [AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network](https://arxiv.org/abs/2408.12293), Arxiv**
 - **`Arxiv` [STAS: Spatio-Temporal Adaptive Computation Time for Spiking Transformers](http://arxiv.org/abs/2508.14138), Arxiv**
 - **`Arxiv` [Zero2Text: Zero-Training Cross-Domain Inversion Attacks on Textual Embeddings](https://arxiv.org/abs/2602.01757), Arxiv**
+- `Arxiv` [CR-QAT: Curriculum Relational Quantization-Aware Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2603.05964), Arxiv
+- **`Arxiv` [SPOILER: TEE-Shielded DNN Partitioning of On-Device Secure Inference with Poison Learning](https://arxiv.org/abs/2603.06263), Arxiv**
